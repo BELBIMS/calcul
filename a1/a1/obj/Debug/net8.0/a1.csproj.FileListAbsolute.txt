@@ -1,0 +1,14 @@
+C:\Users\dushi\source\repos\a1\a1\bin\Debug\net8.0\a1.exe
+C:\Users\dushi\source\repos\a1\a1\bin\Debug\net8.0\a1.deps.json
+C:\Users\dushi\source\repos\a1\a1\bin\Debug\net8.0\a1.runtimeconfig.json
+C:\Users\dushi\source\repos\a1\a1\bin\Debug\net8.0\a1.dll
+C:\Users\dushi\source\repos\a1\a1\bin\Debug\net8.0\a1.pdb
+C:\Users\dushi\source\repos\a1\a1\obj\Debug\net8.0\a1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dushi\source\repos\a1\a1\obj\Debug\net8.0\a1.AssemblyInfoInputs.cache
+C:\Users\dushi\source\repos\a1\a1\obj\Debug\net8.0\a1.AssemblyInfo.cs
+C:\Users\dushi\source\repos\a1\a1\obj\Debug\net8.0\a1.csproj.CoreCompileInputs.cache
+C:\Users\dushi\source\repos\a1\a1\obj\Debug\net8.0\a1.dll
+C:\Users\dushi\source\repos\a1\a1\obj\Debug\net8.0\refint\a1.dll
+C:\Users\dushi\source\repos\a1\a1\obj\Debug\net8.0\a1.pdb
+C:\Users\dushi\source\repos\a1\a1\obj\Debug\net8.0\a1.genruntimeconfig.cache
+C:\Users\dushi\source\repos\a1\a1\obj\Debug\net8.0\ref\a1.dll
